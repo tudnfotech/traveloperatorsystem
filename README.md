@@ -14,5 +14,14 @@ I've done blochain projects as Defi, Dapp, NFT marketplace, Gamefi (play to earn
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tudnfotech&theme=dark)](https://git.io/streak-stats)
 
 
+📫 How to reach me
+Email: tudnfotech@gmail.com
+Skype: live:.tudnfotech
+Telegram: @tonyc2i
+Whatsapp: +84903246045
+
+
+
+
 
 

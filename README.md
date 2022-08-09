@@ -11,6 +11,8 @@ I've done blochain projects as Defi, Dapp, NFT marketplace, Gamefi (play to earn
 💬 Ask me about: whatever related to technical issues. i am so interested in web development future 
 ⚡ Fun fact: I love a challenge, exciting that why i love rock music and sportign game like football 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tonyc2i&theme=highcontrast)](https://git.io/streak-stats)
+
 
 
 
